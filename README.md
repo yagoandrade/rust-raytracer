@@ -1,4 +1,4 @@
-# Rust Raytracer 🦀
+# rust-raytracer 🔭🦀
 ## Overview
 This repository contains a raytracer written entirely in Rust, leveraging the language's safety features and concurrency to produce stunning, photorealistic images. Implements a variety of advanced rendering techniques. Based on [RTOW](https://raytracing.github.io/books/RayTracingInOneWeekend.html) by Peter Shirley.
 
